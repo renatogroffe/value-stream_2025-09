@@ -5,4 +5,8 @@ Algumas referências úteis:
 - IT4IT: https://www.opengroup.org/it4it
 - Scaled Agile Framework (SAFe®): https://scaledagile.com/
 - Value-stream_mapping: https://en.wikipedia.org/wiki/Value-stream_mapping
+- Docker Hub: https://hub.docker.com/
+- Cloud Native Computing Foundation (CNCF): https://www.cncf.io/
+- The Apache Software Foundation: https://www.apache.org/
+- Twelve-Factor App: https://12factor.net
 - Azure Well-Architected Framework: https://learn.microsoft.com/en-us/azure/well-architected/
