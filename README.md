@@ -6,6 +6,7 @@ Algumas referências úteis:
 - Scaled Agile Framework (SAFe®): https://scaledagile.com/
 - Value-stream_mapping: https://en.wikipedia.org/wiki/Value-stream_mapping
 - OpenTelemetry: https://opentelemetry.io/
+- Jaeger Tracing: https://www.jaegertracing.io/
 - Docker Hub: https://hub.docker.com/
 - Cloud Native Computing Foundation (CNCF): https://www.cncf.io/
 - The Apache Software Foundation: https://www.apache.org/
